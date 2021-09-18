@@ -8,3 +8,5 @@ If you will enter uneven ammount of chars, weird things will start to happen. Yo
 
 #### Starting look like this:
 `python3 hex_to_shellcode.py <hex number>`
+
+#### Naturally - educational purposes only
